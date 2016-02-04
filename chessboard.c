@@ -2,7 +2,7 @@
 #define DEPTH 20
 #define WIDTH 40
 #define CYCLE  8
-#define STAR  "&"
+#define STAR  "*"
 #define SPACE " "
 #define NL    "\n"
 
